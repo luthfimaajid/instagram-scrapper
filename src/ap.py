@@ -2,8 +2,8 @@ from instaloader import Instaloader, Profile
 from datetime import datetime
 import json
 
-USERNAME = "jimmykaneki@gmail.com"
-PASSWORD = "Frejlord123"
+USERNAME = ""
+PASSWORD = ""
 
 loader = Instaloader()
 loader.login(USERNAME, PASSWORD)
